@@ -33,8 +33,3 @@ Modeling Affordances and Functioning for Personalized Robotic Assistance https:/
 
 **********
 
-Practical info 2020: 
-
--There are two computer rooms booked for the last lecture (Oct.23) : 5B01 and 5B07.
-
--Moodle: https://moodle.r2.enst.fr/moodle/course/view.php?id=93#section-2
